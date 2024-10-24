@@ -9,3 +9,4 @@ elif karaktar == "flodhäst":
     print("Här är lite vattenmelon!")
 else:
     print("Va kul karaktär du har fått")
+    # hej
